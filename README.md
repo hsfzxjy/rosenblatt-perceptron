@@ -1,5 +1,4 @@
 # rosenblatt-perceptron
-A naive implementation of Rosenblatt Perceptron.
 
 ## Overview
 
